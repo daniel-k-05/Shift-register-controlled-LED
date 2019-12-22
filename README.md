@@ -10,4 +10,4 @@ So i figured, why not use Shift Registers.
 
 
 Next up is the code.
-It has a few flaws, but is constantly wokrked on.
+It has a few flaws, but is constantly worked on.
